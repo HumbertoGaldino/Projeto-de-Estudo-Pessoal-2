@@ -5,7 +5,7 @@ Portfólio web page design built with HTML e CSS.
 Link: https://humbertogaldino.github.io/Projeto-de-Estudo-Pessoal-2/
 
 ### Final Result
-<img src="Images/Final.png" alt="Web Version"/>
+<img src="images/Final.png" alt="Web Version"/>
 
 ## 🚀 Starting
 
