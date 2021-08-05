@@ -1,2 +1,15 @@
-# Projeto de Estudo #2
- Projeto criado para desenvolvimento de portfólio e prática de conhecimentos
+# Portfólio
+
+Portfólio web page design built with HTML e CSS.
+
+Link: https://humbertogaldino.github.io/Projeto-de-Estudo-Pessoal-2/
+
+### Final Result
+<img src="Images/Final.png" alt="Web Version"/>
+
+## 🚀 Starting
+
+To start the project, just open the file `index.html` in your preferred browser.
+
+---
+##### Coded by Humberto Galdino
